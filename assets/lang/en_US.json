@@ -1,0 +1,43 @@
+{
+    "language": "English",
+
+    "menu.home": "Home",
+    "menu.mods_list": "Mods List",
+    "menu.debug": "Debug",
+    "menu.settings": "Settings",
+    "menu.settings.main": "Program Settings",
+    "menu.settings.language": "Language",
+    "menu.settings.font": "Font",
+    "menu.settings.font_style": "Style",
+    "menu.settings.edit_info": "Edit Mod Info",
+    "menu.settings.mods": "Mods Settings",
+
+    "mods.list": "Mods List",
+    "mods_list.add": "Add",
+    "mods_list.delete": "Delete",
+    "mods_list.refresh": "Refresh List",
+    "mods_list.open_mods_folder": "Open Mods Folder",
+
+    "mods.main_info": "Main Info",
+    "mods.info.modid": "Mod ID",
+    "mods.info.name": "Name",
+    "mods.info.version": "Version",
+    "mods.info.mcversion": "MC Version",
+    "mods.info.empty.title": "Main Info",
+    "mods.info.empty.not.selected": "No selected mod",
+
+    "mods.info.edit": "Edit",
+    "mods.info.edit.save": "Save",
+    "mods.info.edit.cancel": "Cancel",
+    "mods.info.edit.save.success": "Saved",
+    "mods.info.edit.save.error": "Error",
+
+    "mods.info.languages": "Languages",
+    "mods.info.languages.folder": "Folder",
+    "mods.info.languages.unknown": "Unknown language",
+
+    "error.info_file_not_found": "Info File Not Found",
+
+    "welcome.title": "Welcome to MLH!",
+    "welcome.text": "Thank you for downloading MLH.\n\nThis program is being developed for mod localization purposes.\nThis is the initial version of the program, and currently, it has limited functionality.\nAt this point, you can add a mod to the program, view, and edit its information.\nI am actively working on the program, so updates will be released quite frequently.\nI welcome all suggestions and feedback.\n\nBest regards,\nMoornyx."
+}

@@ -1,0 +1,43 @@
+{
+    "language": "Русский",
+
+    "menu.home": "Главная",
+    "menu.mods_list": "Список модов",
+    "menu.debug": "Отладка",
+    "menu.settings": "Настройки",
+    "menu.settings.main": "Настройки программы",
+    "menu.settings.language": "Язык",
+    "menu.settings.font": "Шрифт",
+    "menu.settings.font_style": "Стиль",
+    "menu.settings.edit_info": "Изменение информации мода",
+    "menu.settings.mods": "Настройки модов",
+
+    "mods.list": "Список модов",
+    "mods_list.add": "Добавить",
+    "mods_list.delete": "Удалить",
+    "mods_list.refresh": "Обновить список",
+    "mods_list.open_mods_folder": "Открыть папку с модами",
+
+    "mods.main_info": "Информация",
+    "mods.info.modid": "ID мода",
+    "mods.info.name": "Название",
+    "mods.info.version": "Версия",
+    "mods.info.mcversion": "Версия MC",
+    "mods.info.empty.title": "Информация",
+    "mods.info.empty.not.selected": "Мод не выбран",
+
+    "mods.info.edit": "Изменить",
+    "mods.info.edit.save": "Сохранить",
+    "mods.info.edit.cancel": "Отменить",
+    "mods.info.edit.save.success": "Сохранено",
+    "mods.info.edit.save.error": "Ошибка",
+
+    "mods.info.languages": "Языки",
+    "mods.info.languages.folder": "Папка",
+    "mods.info.languages.unknown": "Неизвестный язык",
+
+    "error.info_file_not_found": "Файл информации не найден",
+
+    "welcome.title": "Добро пожаловать в MLH!",
+    "welcome.text": "Спасибо за скачивание MLH.\n\nДанная программа разрабатывается для работы с локализацией модов.\nЭто первая предварительная версия программы, поэтому сейчас в ней мало функционала. На данный момент можно добавить мод в программу, просмотреть и отредактировать информацию о нём. Я активно работаю над программой, поэтому обновления буду выходить довольно часто. Буду рад всем предложениям и отзывам.\n\nС уважением,\nMoornyx."
+}
