@@ -2,6 +2,9 @@
     "language": "English",
 
     "menu.home": "Home",
+    "home.title": "Welcome to MLH!",
+    "home.text": "Thank you for downloading MLH.\n\nThis program is being developed for mod localization purposes.\nThis is the initial version of the program, and currently, it has limited functionality.\nAt this point, you can add a mod to the program, view, and edit its information.\nI am actively working on the program, so updates will be released quite frequently.\nI welcome all suggestions and feedback.\n\nBest regards,\nMoornyx.",
+    
     "menu.mods_list": "Mods List",
     "menu.debug": "Debug",
     "menu.settings": "Settings",
@@ -24,20 +27,17 @@
     "mods.info.version": "Version",
     "mods.info.mcversion": "MC Version",
     "mods.info.empty.title": "Main Info",
-    "mods.info.empty.not.selected": "No selected mod",
+    "mods.info.empty.not.selected": "Mod not selected",
 
     "mods.info.edit": "Edit",
     "mods.info.edit.save": "Save",
     "mods.info.edit.cancel": "Cancel",
-    "mods.info.edit.save.success": "Saved",
-    "mods.info.edit.save.error": "Error",
+    "mods.info.edit.save.success": "File saved successfully",
+    "mods.info.edit.save.error": "Error saving file",
 
     "mods.info.languages": "Languages",
     "mods.info.languages.folder": "Folder",
     "mods.info.languages.unknown": "Unknown language",
 
-    "error.info_file_not_found": "Info File Not Found",
-
-    "welcome.title": "Welcome to MLH!",
-    "welcome.text": "Thank you for downloading MLH.\n\nThis program is being developed for mod localization purposes.\nThis is the initial version of the program, and currently, it has limited functionality.\nAt this point, you can add a mod to the program, view, and edit its information.\nI am actively working on the program, so updates will be released quite frequently.\nI welcome all suggestions and feedback.\n\nBest regards,\nMoornyx."
+    "error.info_file_not_found": "Info File Not Found"
 }
