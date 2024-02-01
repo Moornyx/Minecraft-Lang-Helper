@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+fonttools==4.47.2
+packaging==23.2
+pillow==10.2.0
+toml==0.10.2

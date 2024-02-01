@@ -16,6 +16,7 @@
     "menu.settings.mods": "Mods Settings",
 
     "mods.list": "Mods List",
+    "mods.list.title": "Modificaitions",
     "mods_list.add": "Add",
     "mods_list.delete": "Delete",
     "mods_list.refresh": "Refresh List",
@@ -26,6 +27,7 @@
     "mods.info.name": "Name",
     "mods.info.version": "Version",
     "mods.info.mcversion": "MC Version",
+    "mods.info.file": "File",
     "mods.info.empty.title": "Main Info",
     "mods.info.empty.not.selected": "Mod not selected",
 
