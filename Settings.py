@@ -1,11 +1,12 @@
 import configparser,os
 root_folder=os.getcwd()
 assets_folder=root_folder+'/assets/'
+sounds_folder=assets_folder+'sounds/'
 mods_folder=root_folder+'/mods/'
 config_path=root_folder+'/config.ini'
 logo=root_folder+'/assets/logo.png'
 plant=root_folder+'/assets/plant.png'
-version='0.6.2 alpha'
+version='0.6.3 alpha'
 icons_theme='light'
 main_font='Minecraft Ten'
 green='#208B38'

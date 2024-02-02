@@ -5,7 +5,7 @@ _D=None
 _C='font_style'
 _B='nsew'
 _A='main'
-import ctypes,threading,customtkinter as ctk,os,Localization,MainHandling,Settings
+import ctypes,threading,winsound,customtkinter as ctk,os,Localization,MainHandling,Settings,pygame
 from GUI import SidebarMenu,TabHome,TabModsList,TabSetting
 from Localization import Locale
 from OutputHandling import log
